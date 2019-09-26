@@ -28,3 +28,5 @@ yarn-error.log*
 !.elasticbeanstalk/*.global.yml
 
 .prettierrc
+package-lock.json
+

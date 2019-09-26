@@ -13,6 +13,7 @@ npm start
 
 ### init
 Initialize module and register callback for receiving a link.
+
 Parameters   |                    |
 -------------|--------------------|
 linkCallback | function(link)     |
@@ -22,6 +23,7 @@ Finalize module.
 
 ### launch
 Launch sendy service in a popup window.
+
 Parameters   |                                            |
 -------------|--------------------------------------------|
 userKey      | String key for identifying user.(optional) |
